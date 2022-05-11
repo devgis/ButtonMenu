@@ -1,0 +1,11 @@
+C:\Users\liyafei\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\liyafei\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\liyafei\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\liyafei\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\liyafei\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\liyafei\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\liyafei\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\liyafei\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\liyafei\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\liyafei\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MyMenu.resources
+C:\Users\liyafei\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MyMenuContent.resources
